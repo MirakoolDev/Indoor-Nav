@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="21.4405 -0.9644 33.8506 32.0835 1.3941 46.5531" area="38" targetId="9931d943c6604345b11b523b5a25276f" name="final_area" pathAuthoring="9931d943c6604345b11b523b5a25276f_authoring.glb" pathOcclusion="9931d943c6604345b11b523b5a25276f_occlusion.3dt" pathNavMesh="9931d943c6604345b11b523b5a25276f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

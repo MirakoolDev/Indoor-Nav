@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="9.6055 -0.9457 16.0173 25.4927 1.7756 38.1240" area="143" targetId="0b4a92c9814a47bca2305c74d90046ed" name="corridor_area" pathAuthoring="0b4a92c9814a47bca2305c74d90046ed_authoring.glb" pathOcclusion="0b4a92c9814a47bca2305c74d90046ed_occlusion.3dt" pathNavMesh="0b4a92c9814a47bca2305c74d90046ed_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
